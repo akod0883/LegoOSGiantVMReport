@@ -1,4 +1,9 @@
-# CCErrorLog
+# LegoOSGiantVMReport
+Install the following files from online for this configuration process
+CentOS-7-x86_64-GenericCloud-20150628_01.qcow2
+ubuntu-14.04-server-amd64.qcow2
+ubuntu-14.04.3-server-amd64.iso
+
 This README contains a full description about how I went about configuring LegoOS and GiantVM. Along the way I will display the error that occured and how I solved or went around them. Please feel free to reachout to me if anyone reading this has any questions!
 
 Before following this guide, please install all the necessary packages (all these packages are assuming you are using Centos7.2)
