@@ -249,3 +249,8 @@ Currently, I am not 100% sure why this output occurs. I believe this error is ca
 10. Removing the -smp flag so the communication of the VMs is through the network and not shared memory
 
 Next thing to try, is checking if $QEMU_DIR/interrupt-router.c is correctly written. Or, playing around with the commands in step 9. 
+
+
+
+## More Information 
+For more Information, please refer to the BigDataXFinalReport.pdf. 
